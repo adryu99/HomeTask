@@ -81,5 +81,5 @@ static void ladder (int numberOfLadders) throws InputNegativeException, InputZer
         }
         System.out.println(result);
     }
-
+67
  */
